@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+# ☕ Coffee Shop App - React Native & Expo
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Bienvenido a **Coffee Shop App**, una aplicación de café desarrollada con **React Native** y **Expo**. Inspirada en un diseño de [Dribbble](https://dribbble.com/shots/10943850-Coffee-shop-mobile-App), esta app presenta una interfaz atractiva con un catálogo de productos, navegación fluida y una experiencia de usuario moderna.  
 
-## Get started
+## ✨ Tecnologías utilizadas
+- 🚀 **Expo** con [`create-expo-app`](https://www.npmjs.com/package/create-expo-app)
+- 🏗 **Expo Router** para navegación basada en archivos
+- 🎨 **StyleSheet y Styled Components** para estilos personalizados
+- 💡 **Context API** para manejar estado global
+- 📜 **TypeScript** para una mejor tipificación y mantenibilidad
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🛠 Instalación y ejecución
 
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+### 1️⃣ **Clona este repositorio**
 ```bash
-npm run reset-project
-```
+git clone https://github.com/tuusuario/coffee-shop-app.git
+cd coffee-shop-app
+![Home1](https://github.com/user-attachments/assets/96e80f1c-c4ac-4ba4-93fd-f1219172f6d0)
+![Product2](https://github.com/user-attachments/assets/26c5d263-8341-4df4-8d7a-36b0d4049055)
+![Product2](https://github.com/user-attachments/assets/11818aba-9a1c-4da9-a8b4-44534676e552)
+![Home1](https://github.com/user-attachments/assets/ca3a949c-8776-446b-a160-26a9cdba46a0)
+![DetailsProduct3](https://github.com/user-attachments/assets/13077dd5-bf9b-4283-b6ba-0e8837b92dbf)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+app/
+│── products/           # Pantallas de productos
+│   │── index.tsx       # Lista de productos
+│   │── [id].tsx        # Detalles de un producto
+│── assets/             # Imágenes y recursos
+│── components/         # Componentes reutilizables
+│── context/            # Context API para estado global
+│── styles/             # Estilos globales
+│── App.tsx             # Entrada principal de la app
+│── README.md           # Documentación
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+🎨 Diseño UI / Wireframes
+🔗 Diseño en Figma
+📌 Puedes ver y editar el diseño en Figma aquí:
+👉 Figma - Coffee Shop UI
 
-## Join the community
+🎨 Inspiración en Dribbble
+Esta app está inspirada en el diseño de Dribbble:
+👉 Coffee Shop Mobile App
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+📌 Además, se han agregado personalizaciones para mejorar la experiencia.
