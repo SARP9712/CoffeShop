@@ -35,13 +35,13 @@ app/
 │── README.md           # Documentación
 
 
-🎨 Diseño UI / Wireframes
-🔗 Diseño en Figma
-📌 Puedes ver y editar el diseño en Figma aquí:
-👉 Figma - Coffee Shop UI
+
+
 
 🎨 Inspiración en Dribbble
 Esta app está inspirada en el diseño de Dribbble:
 👉 Coffee Shop Mobile App
+
+🔗 Diseño en Figma 👉https://dribbble.com/shots/10943850-Coffee-shop-mobile-App
 
 📌 Además, se han agregado personalizaciones para mejorar la experiencia.
