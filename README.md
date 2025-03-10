@@ -17,12 +17,11 @@ Bienvenido a **Coffee Shop App**, una aplicación de café desarrollada con **Re
 ```bash
 git clone https://github.com/tuusuario/coffee-shop-app.git
 cd coffee-shop-app
-![Home1](https://github.com/user-attachments/assets/96e80f1c-c4ac-4ba4-93fd-f1219172f6d0)
-![Product2](https://github.com/user-attachments/assets/26c5d263-8341-4df4-8d7a-36b0d4049055)
-![Product2](https://github.com/user-attachments/assets/11818aba-9a1c-4da9-a8b4-44534676e552)
-![Home1](https://github.com/user-attachments/assets/ca3a949c-8776-446b-a160-26a9cdba46a0)
-![DetailsProduct3](https://github.com/user-attachments/assets/13077dd5-bf9b-4283-b6ba-0e8837b92dbf)
+![Home1](https://github.com/user-attachments/assets/171f4788-c896-4e5c-b8d9-9fadb120c640)
 
+![Product2](https://github.com/user-attachments/assets/bae2a876-cbf1-480b-9ac1-90e3bc277bb4)
+
+![DetailsProduct3](https://github.com/user-attachments/assets/2757ae6a-a3ea-494a-ab65-30c1687b32e5)
 
 app/
 │── products/           # Pantallas de productos
